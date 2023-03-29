@@ -1,0 +1,5 @@
+<html>
+<body>
+<a rel="me" style="display:none" href="https://mastodon.social/@kyprsmyr">Mastodon</a>
+</body>
+</html>
